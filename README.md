@@ -1,4 +1,4 @@
-# pytag
+# Pytag
 simple python tool for tagging to wordlist
 
 Usage: python pytag.py wordlistname.txt tag_name
