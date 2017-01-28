@@ -1,6 +1,6 @@
 # Pytag
 simple python tool for tagging to wordlist
 
-Usage: python pytag.py wordlistname.txt tag_name
+Usage: python Pytag.py wordlistname.txt tag_name
 
-Example: python pytag.py htmltag.txt option
+Example: python Pytag.py htmltag.txt option
